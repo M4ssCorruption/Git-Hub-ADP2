@@ -1,0 +1,6 @@
+#App file to be ignored by Git
+
+#Netbeans specific folders files
+
+/nbproject
+
